@@ -13,6 +13,8 @@ app/frontend/coverage
 # production
 app/frontend/build
 
+# macOS
+.DS_Store
 
 
 ### Node ###
